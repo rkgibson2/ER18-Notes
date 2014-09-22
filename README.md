@@ -8,3 +8,5 @@ Notes for Harvard Ethical Reasoning 18 class
 **[September 10, 2014](2014-09-10.md)**
 
 **[September 15, 2014](2014-09-15.md)**
+
+**[September 22, 2014](2014-09-22.md)**
